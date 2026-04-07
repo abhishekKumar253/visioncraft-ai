@@ -28,7 +28,7 @@ const Testimonials = () => {
           </p>
         </motion.div>
 
-        <div // Change karo
+        <div 
           className="flex justify-center gap-6 mt-10 mask-[linear-gradient(to_bottom,transparent,black_25%,black_75%,transparent)] max-h-[740px] overflow-hidden">
           <TestimonialsColumn testimonials={firstColumn} duration={15} />
           <TestimonialsColumn
