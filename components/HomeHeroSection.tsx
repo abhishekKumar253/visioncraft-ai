@@ -129,23 +129,6 @@ export function HomeHeroSection() {
           </div>
         </div>
 
-        <div className="home-demo-wrap">
-          <div className="home-demo-shift">
-            <div className="hero-demo-glass home-demo-glass-shell">
-              <div className="hero-demo-glass-inner home-demo-inner">
-                <Image
-                  src="/demo.png"
-                  alt="Vision Craft workspace showing upload, curated styles, and a before-and-after preview"
-                  width={3290}
-                  height={1872}
-                  className="h-auto w-full"
-                  priority
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 90vw, 1100px"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
   );
