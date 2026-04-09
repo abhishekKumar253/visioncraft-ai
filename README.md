@@ -5,7 +5,6 @@
   <br />
   Built with Next.js 16, OpenAI, Clerk, Drizzle ORM, Neon, and ImageKit.
 </p>
----
 
 ## 🚀 Features
 
@@ -95,18 +94,6 @@ npx drizzle-kit push
 # 5. Run the dev server
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) to see the app
--
-
-## 📦 Deployment
-
-Deploy on [Vercel](https://vercel.com) in one click:
-
-1. Push to GitHub
-2. Import repo on Vercel
-3. Add all environment variables
-4. Deploy ✅
 
 ---
 
