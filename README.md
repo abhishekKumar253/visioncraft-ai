@@ -103,7 +103,7 @@ npm run dev
 
 - Portfolio: [Portfolio](<https://dev-portfolio-sooty-rho.vercel.app>)
 - GitHub: [@abhishekkumar](https://github.com/abhishekKumar253)
-- LinkedIn: [Abhishek Kumar](www.linkedin.com/in/abhishek-kumar-a391a422a)
+- LinkedIn: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-a391a422a)
 
 ---
 
