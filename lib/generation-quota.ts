@@ -17,7 +17,7 @@ export const BILLING_PLAN_KEYS = {
 export const MONTHLY_GENERATION_LIMITS = {
   free: 3,
   pro: 75,
-  premium: 150,
+  premium: 175,
 } as const;
 
 export function getMonthlyGenerationLimit(
